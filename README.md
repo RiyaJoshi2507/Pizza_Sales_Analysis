@@ -110,11 +110,17 @@ Bottom 5 Pizzas can be reviewed for potential removal or improvement
 sql
 
 /Pizza_Sales_Sql Query.docx        -- SQL queries for KPI and analysis
+
 /Pizza_Sales_report_Dashboard.pbix -- Power BI dashboard
+
 /Pizza sales Report.twbx           -- Tableau workbook
+
 /Pizza_Sales_Dashboard.xlsx        -- Excel dashboard
+
 /Pizza_Sales_python.ipynb          -- Python notebook
+
 /README.md                         -- Project report and summary
+
 
 🚀 Future Scope
 
