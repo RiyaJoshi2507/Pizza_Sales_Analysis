@@ -14,18 +14,6 @@ Understand time-based ordering patterns (hourly, weekly)
 
 Build interactive dashboards using multiple tools for various stakeholders
 
-🛠 Tools & Technologies
-
-SQL Server Management Studio (SSMS) – for querying and metric aggregation
-
-Power BI – for dynamic dashboards
-
-Tableau – for interactive, visual storytelling dashboards
-
-Excel – for static dashboarding and charts
-
-Python (Pandas, Matplotlib, Seaborn) – for programmatic data exploration and visualization
-
 📊 Key KPIs (via SQL)
 
 KPI	Description
@@ -122,9 +110,7 @@ sql
 /README.md                         -- Project report and summary
 
 
-🚀 Future Scope
-
-Integrate time series forecasting to predict daily/weekly demand
+Riya Joshi
 
 Add customer segmentation (e.g., high-value vs. low-value orders)
 
