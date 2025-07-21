@@ -1,10 +1,10 @@
-🍕 Pizza Sales Dashboard
+## 🍕 Pizza Sales Dashboard
 
-📌 Project Description
+## 📌 Project Description
 
 This end-to-end Pizza Sales project analyzes transactional data from a pizza store to uncover insights into revenue, ordering trends, best-selling pizzas, and sales distribution. The analysis is implemented using SQL, Power BI, Tableau, Excel, and Python. The goal is to help the business optimize inventory, plan marketing campaigns, and increase revenue.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze key business metrics such as total revenue, order count, and best-selling items
 
@@ -14,7 +14,7 @@ Understand time-based ordering patterns (hourly, weekly)
 
 Build interactive dashboards using multiple tools for various stakeholders
 
-📊 Key KPIs (via SQL)
+## 📊 Key KPIs (via SQL)
 
 KPI	Description
 
@@ -24,7 +24,7 @@ Total Pizzas Sold	Total number of pizzas sold
 Total Orders	Number of distinct customer orders
 Average Pizza per Order	Pizzas sold per order (on average)
 
-🔍 Analysis Queries Included
+## 🔍 Analysis Queries Included
 
 Hourly Trend for Pizza Sales
 
@@ -45,9 +45,9 @@ FROM pizza_sales
 GROUP BY pizza_category
 ORDER BY pct DESC;
 
-📈 Dashboards
+## 📈 Dashboards
 
-🟢 Power BI Dashboard
+## 🟢 Power BI Dashboard
 
 Visual KPI cards for revenue, orders, quantity
 
@@ -57,7 +57,7 @@ Hourly & weekly trend charts
 
 Top/bottom performance visuals
 
-🔵 Tableau Dashboard
+## 🔵 Tableau Dashboard
 
 Visual stories comparing categories and best sellers
 
@@ -65,7 +65,7 @@ Heatmaps and time series trends
 
 Filters for deep-dive analysis
 
-🟠 Excel Dashboard
+## 🟠 Excel Dashboard
 
 Pivot-based summaries
 
@@ -73,7 +73,7 @@ Static visualizations for quick reporting
 
 Revenue breakdown by size, category, and pizza name
 
-🐍 Python Analysis
+## 🐍 Python Analysis
 
 Data cleaning using Pandas
 
@@ -81,7 +81,7 @@ Exploratory Data Analysis (EDA)
 
 Bar plots and line charts using Matplotlib & Seaborn
 
-💡 Key Insights
+## 💡 Key Insights
 
 Top-selling category: Classic pizzas
 
@@ -93,7 +93,7 @@ Top 5 Pizzas account for over 30% of total revenue
 
 Bottom 5 Pizzas can be reviewed for potential removal or improvement
 
-📁 File Structure
+## 📁 File Structure
 
 sql
 
@@ -109,12 +109,12 @@ sql
 
 /README.md                         -- Project report and summary
 
+## 🛠 Tools & Technologies
+Python (Pandas, Matplotlib, Seaborn)
+SQL (SSMS, joins, aggregation, pivot)
+Excel (Pivot tables, charts, slicers)
+Power BI (DAX, interactive visuals)
+Tableau (Drag & drop visual analytics)
 
-Riya Joshi
 
-Add customer segmentation (e.g., high-value vs. low-value orders)
-
-Build a web-based dashboard interface using Flask + Plotly
-
-🙋‍♀️ Author
-Riya Joshi
+**Riya Joshi**
